@@ -5,7 +5,7 @@ This is an example Next.js app to show how you can use Mergent with Next.js.
 ## Getting Started
 
 1. Run the Next.js development server with `npm run dev`
-2. Start ngrok to get a publicly accessible URL with `ngrok http 3000` ([ngrok + Mergent docs](https://docs.mergent.co/tasks/localhost-dev-and-webhooks))
+2. Start ngrok to get a publicly accessible URL with `ngrok http 3000` ([ngrok + Mergent docs](https://docs.mergent.co/guides/localhost-dev-and-webhooks))
 3. Set your Mergent API Key and base URL from ngrok in `pages/api/tasks/send-email.ts`
 
 Open [http://localhost:3000](http://localhost:3000) to run the example.
